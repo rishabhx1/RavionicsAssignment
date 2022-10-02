@@ -20,6 +20,7 @@ That script can be ran using MySQL workbench.
 1. Use postman/insomnia/cmd line to test API calls.
 2. Project is started on `localhost:8000`.
 
+Added screenshots for requests and responses.
 ## Curl commands to test
 
 1. Request: 
@@ -83,3 +84,4 @@ That script can be ran using MySQL workbench.
 ## References
 1. https://www.jsonschema2pojo.org/
 2. https://javalin.io/documentation
+
